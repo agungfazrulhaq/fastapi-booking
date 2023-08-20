@@ -2,5 +2,5 @@ __pycache__
 auth
 db
 static
-template
+templates
 bookingapp
